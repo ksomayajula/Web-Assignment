@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ad60a1d-6011-4387-ae16-8a8bc868c0c4" name="Default Changelist" comment="" />
+    <list default="true" id="9ad60a1d-6011-4387-ae16-8a8bc868c0c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/betting.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Views/betting.erb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
         <option value="Ruby File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZSA1xoUkmVMXbs6EOW7pCyEtai" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -81,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584821909193</updated>
-      <workItem from="1584821910834" duration="21672000" />
+      <workItem from="1584821910834" duration="22728000" />
     </task>
     <servers />
   </component>
