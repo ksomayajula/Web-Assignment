@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 gem 'sinatra'
-gem 'erb'
 gem 'sass'
 gem 'dm-core'
 gem 'dm-migrations'
